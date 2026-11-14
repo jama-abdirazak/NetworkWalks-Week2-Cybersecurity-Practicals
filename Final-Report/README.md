@@ -8,4 +8,4 @@ This folder contains the final documentation for my Week 2 Cybersecurity Interns
 
 ## Documents
 - Final Report (PDF)
-- Final Report (DOCX)
+
